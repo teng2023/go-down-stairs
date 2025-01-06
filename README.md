@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Basically same as NS-SHAFT, written by C.
+Basically same as NS-SHAFT, written by C, compiled by CodeBlocks.
 
 ## Download and play
 
