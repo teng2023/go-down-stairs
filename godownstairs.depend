@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1654020845 source:d:\µ{¦¡\godownstairs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"functions.h"
+
+1654074415 d:\µ{¦¡\godownstairs\functions.h
+
+1654075760 source:d:\µ{¦¡\godownstairs\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"functions.h"
+
+1654004067 source:d:\µ{¦¡\godownstairs\uselessfuncs.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"functions.h"
+
