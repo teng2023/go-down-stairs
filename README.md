@@ -7,6 +7,7 @@ Basically same as NS-SHAFT, written by C, compiled by CodeBlocks.
 ## Download and play
 
 **1.** Download "bin/Debug/godownstairs.exe".
+
 **2.** Download whole files and execute at CodeBlocks.
 
 ## Picture of the game
