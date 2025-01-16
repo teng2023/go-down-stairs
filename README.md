@@ -16,3 +16,5 @@ Basically same as NS-SHAFT, written by C, compiled by CodeBlocks.
 ## Notice
 
 There is a little bug when playing.
+
+CodeBlocks version might cause some problems.
